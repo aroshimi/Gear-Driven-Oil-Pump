@@ -45,7 +45,13 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## Images
 
-*Include renders, exploded views, and prototype photos here.*
+<img width="763" height="511" alt="image" src="https://github.com/user-attachments/assets/b2c0f6ae-5f92-467b-aaae-4b09ee011ba9" />
+
+<img width="405" height="479" alt="image" src="https://github.com/user-attachments/assets/d7fb4f98-a22e-4f1e-8b48-947438470ff4" />
+
+<img width="502" height="507" alt="image" src="https://github.com/user-attachments/assets/be619bba-07f3-4694-b6e5-6dde0bd85a49" />
+
+
 
 ---
 
